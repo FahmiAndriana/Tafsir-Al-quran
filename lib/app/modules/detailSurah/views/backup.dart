@@ -1,6 +1,6 @@
-import 'package:alquran_flutter/app/constants/colors/color.dart';
-import 'package:alquran_flutter/app/data/models/detailSurah.dart' as detail;
-import 'package:alquran_flutter/app/modules/home/controllers/home_controller.dart';
+import 'package:alquran_tafsir/app/constants/colors/color.dart';
+import 'package:alquran_tafsir/app/data/models/detailSurah.dart' as detail;
+import 'package:alquran_tafsir/app/modules/home/controllers/home_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:scroll_to_index/scroll_to_index.dart';
 import 'package:get/get.dart';

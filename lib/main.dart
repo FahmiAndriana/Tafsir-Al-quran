@@ -1,4 +1,4 @@
-import 'package:alquran_flutter/app/constants/colors/color.dart';
+import 'package:alquran_tafsir/app/constants/colors/color.dart';
 import 'package:flutter/material.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:get/get.dart';

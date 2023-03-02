@@ -1,4 +1,4 @@
-import 'package:alquran_flutter/app/routes/app_pages.dart';
+import 'package:alquran_tafsir/app/routes/app_pages.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import 'package:get/get.dart';

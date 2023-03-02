@@ -1,7 +1,7 @@
-import 'package:alquran_flutter/app/constants/colors/color.dart';
-import 'package:alquran_flutter/app/data/db/bookmark.dart';
-import 'package:alquran_flutter/app/data/models/Juz.dart';
-import 'package:alquran_flutter/app/data/models/surah.dart';
+import 'package:alquran_tafsir/app/constants/colors/color.dart';
+import 'package:alquran_tafsir/app/data/db/bookmark.dart';
+import 'package:alquran_tafsir/app/data/models/Juz.dart';
+import 'package:alquran_tafsir/app/data/models/surah.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
